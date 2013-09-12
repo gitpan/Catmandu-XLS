@@ -20,7 +20,7 @@ provides:
     version: 0.02
   Catmandu::XLS:
     file: lib/Catmandu/XLS.pm
-    version: 0.02
+    version: 0.03
 requires:
   Catmandu: 0.2003
   Spreadsheet::WriteExcel: 2.37
@@ -28,4 +28,4 @@ requires:
   perl: v5.10.1
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.02
+version: 0.03

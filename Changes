@@ -1,4 +1,7 @@
-Revision history for Catmandu-Exporter-XLS
+Revision history for Catmandu-XLS
+
+0.03	2013-09-12
+	- sort keys extracted from a hash in Exporter::XLS
 
 0.02	2012-06-13
 	- initial release
