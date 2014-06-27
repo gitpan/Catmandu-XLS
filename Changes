@@ -1,7 +1,15 @@
 Revision history for Catmandu-XLS
 
-0.03	2013-09-12
-	- sort keys extracted from a hash in Exporter::XLS
+0.04  2014-06-27 09:13:18 CEST
+  - add importer for XLS and XLSX files.
+  - add test for importer
+  - add XLS and XLSX test files
+  - switch to Dist::Milla
+  - modify pod
 
-0.02	2012-06-13
-	- initial release
+0.03    2013-09-12
+  - sort keys extracted from a hash in Exporter::XLS
+
+0.02    2012-06-13
+  - initial release
+

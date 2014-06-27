@@ -1,18 +1,28 @@
-Catmandu::XLS - modules for working with Excel .xls files
+NAME
+    Catmandu::XLS - modules for working with Excel .xls and .xlsx files
 
-INSTALLATION
+MODULES
+    *   Catmandu::Importer::XLS
 
-To install this module, run the following commands:
+    *   Catmandu::Importer::XLSX
 
-	perl Build.PL
-	./Build
-	./Build test
-	./Build install
+    *   Catmandu::Exporter::XLS
 
-SUPPORT AND DOCUMENTATION
+    *   Catmandu::Exporter::XLSX
 
-After installing, you can find documentation for this module with the
-perldoc command.
+AUTHOR
+    Nicolas Steenlant, "<nicolas.steenlant at ugent.be>"
 
-    perldoc Catmandu::Exporter::XLS
+CONTRIBUTOR
+    Vitali Peil, "<vitali.peil at uni-bielefeld.de>"
+
+    Johann Rolschewski, "<rolschewski at gmail.com>"
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2013 by Nicolas Steenlant.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
+    1;
 
